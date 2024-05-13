@@ -1,5 +1,5 @@
 # python-api-challenge
-For Module 6 Challenge
+For Module 6 Challenge:
 This challenge involves using my knowledge of Python requests, APIs, and JSON traversals to investigate what the weather is like as we approach the equator.
 
 Part 1: WeatherPy
